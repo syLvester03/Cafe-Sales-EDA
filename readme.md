@@ -65,8 +65,6 @@ Cafe-Sales-EDA/
 | Location | 3,265 | 0 (marked Unavailable) |
 | Transaction Date | 460 | 460 (unresolvable) |
 
-> **Note:** ~31% of Payment Method and Location values are marked `"Unavailable"` because no imputation strategy was appropriate. Any analysis involving these columns should be interpreted with that limitation in mind.
-
 ---
 
 ## Notebook 2 — EDA & analysis (`Analysis.ipynb`)
